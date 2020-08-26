@@ -2,6 +2,13 @@
 
 Este repositorio de github contiene material el workshop sobre **Transformadores** y **Self-Attention** presentado en [RIIAA '20](https://riiaa.org/).
 
+**TL;DR**: vamos a trabajar con [Google Colab](https://colab.research.google.com/). Da click en los links de abajo para abrir un notebook, y haz una copia para empezar a trabajar en ellos.
+* [1) Mecanismos de Atencion](https://colab.research.google.com/drive/1rL75HO8-jyK-ZfeE5_xJjh2WT9d_xzEt?usp=sharing)
+* [2) Transformadores y clasificacion de texto](https://colab.research.google.com/drive/1lH8XCs7GIkNW7i_qvFPILxaImwkq2WeW?usp=sharing)
+
+<br>
+<hr>
+
 ## Organización del repositorio
 
 La estructura está inspirado en una versión lite de [cookie cutter data science project](https://drivendata.github.io/cookiecutter-data-science/):
